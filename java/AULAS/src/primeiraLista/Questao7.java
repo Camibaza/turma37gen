@@ -34,7 +34,7 @@ public class Questao7 {
 		x = ((c*e) - (b*f) / (a*e) - (b*d));
 		y = ((a*f) - (c*d) / (c*d) - (a*e));
 		
-		System.out.println("Com isso+ o valor de x é:  "+x +"E o valor de y é o equivalente a: " +y );
+		System.out.println("Com isso o valor de x é:  "+x +"E o valor de y é o equivalente a: " +y );
 	
 	}
 
