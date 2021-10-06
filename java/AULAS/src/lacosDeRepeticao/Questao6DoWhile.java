@@ -14,7 +14,7 @@ public class Questao6DoWhile {
 		do {
 			System.out.print("Digite um numero: ");
 			numero = leia.nextInt();
-			if(numero%3==0) {
+			if(numero%3==0 && numero>0) {
 				soma= soma+numero;
 				totalMultiplos++;
 			}
