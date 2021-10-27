@@ -45,4 +45,4 @@ SELECT * FROM tb_produtos
     
     SELECT * FROM tb_produtos
 	INNER JOIN tb_categorias ON tb_categorias.id = tb_produtos.fk_categoria_id 
-WHERE id = 4;
+WHERE id = 4;tb_marcas
